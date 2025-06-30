@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+build/
+dist/
+.parcel-cache/ # If using Parcel alongside or instead of Webpack
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor/IDE specific files
+.idea/ # IntelliJ IDEA
+.vscode/ # VS Code
+*.iml # IntelliJ IDEA module file
+.DS_Store # macOS specific
+Thumbs.db # Windows specific
+
+# Test coverage reports
+coverage/
+
+# Webpack specific
+.webpack/
+webpack-bundle-analyzer/
+
+# Other common temporary files
+tmp/
