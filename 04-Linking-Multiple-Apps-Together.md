@@ -1,0 +1,70 @@
+# [Stephen Grider] Microfrontends with React: A Complete Developer's Guide [ENG, 2020]
+
+<br/>
+
+## 04 Linking Multiple Apps Together
+
+<br/>
+
+### 027 Application Overview
+
+<br/>
+
+![Application](/img/pic-m04-p01.png?raw=true)
+
+<br/>
+
+### 028 Tech Stack
+
+<br/>
+
+![Application](/img/pic-m04-p02.png?raw=true)
+
+<br/>
+
+### 029 Requirements That Drive Architecture Choices
+
+<br/>
+
+### 030 [File] Dependency Files
+
+<br/>
+
+### 031 Dependency Installation
+
+<br/>
+
+### 032 Initial Webpack Config
+
+<br/>
+
+### 033 Creating and Merging Development Config
+
+<br/>
+
+![Application](/img/pic-m04-p03.png?raw=true)
+
+<br/>
+
+### 034 Running Marketing in Isolation
+
+    $ cd app2/marleting
+    $ npm start
+
+<br/>
+
+### 035 Wiring Up React
+
+<br/>
+
+### [File] 036 Marketing Components
+
+<br/>
+
+### 037 Adding the Pricing and Landing Pages
+
+<br/>
+
+---
+
+<br/>

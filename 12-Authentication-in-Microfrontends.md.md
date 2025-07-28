@@ -1,0 +1,47 @@
+# [Stephen Grider] Microfrontends with React: A Complete Developer's Guide [ENG, 2020]
+
+<br/>
+
+## 12 Authentication in Microfrontends
+
+<br/>
+
+### 098 Important Notes on Authentication
+
+<br/>
+
+### 099 Implementation Strategies
+
+<br/>
+
+![Application](/img/pic-m12-p01.png?raw=true)
+
+<br/>
+
+### 100 Communicating Auth Changes
+
+<br/>
+
+### 101 Communicating Authentication State
+
+<br/>
+
+### 102 Allowing Signout
+
+<br/>
+
+### 103 Adding an Auth Deploy Config
+
+<br/>
+
+### 104 Verifying Deployment
+
+<br/>
+
+![Application](/img/pic-m12-p02.png?raw=true)
+
+<br/>
+
+---
+
+<br/>
